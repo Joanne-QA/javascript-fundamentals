@@ -1,4 +1,4 @@
-# 👋 JavaScript Fundamentals
+# # 👋 JavaScript Fundamentals
 
 Welcome to my JavaScript learning journey!
 
@@ -20,21 +20,21 @@ This repository documents my progress as I learn JavaScript to build a strong fo
 
 ## 🎯 Goal
 
-My goal is to develop a solid understanding of JavaScript before moving into Playwright automation and building reliable automated tests.
+Build a solid JavaScript foundation before moving into Playwright automation.
 
 ## 🚀 Progress
 
-- [ ] Variables
-- [ ] Data Types
-- [ ] Strings
-- [ ] Arrays
-- [ ] Objects
-- [ ] Functions
-- [ ] Loops
-- [ ] Conditions
-- [ ] DOM
-- [ ] ES6
+- ✅ Variables
+- ⬜ Data Types
+- ⬜ Strings
+- ⬜ Arrays
+- ⬜ Objects
+- ⬜ Functions
+- ⬜ Loops
+- ⬜ Conditions
+- ⬜ DOM
+- ⬜ ES6
 
 ---
 
-✨ This repository will be updated regularly as I continue learning.
+✨ Updated as I continue learning.
