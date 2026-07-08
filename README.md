@@ -1,4 +1,4 @@
-# # 👋 JavaScript Fundamentals
+👋 JavaScript Fundamentals
 
 Welcome to my JavaScript learning journey!
 
