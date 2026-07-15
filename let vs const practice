@@ -1,0 +1,4 @@
+let favouriteFood = "Fried rice";
+const country = "Nigeria";
+let yearsOfExperience = 3
+const currentRole = "Regional QA Engineer";
