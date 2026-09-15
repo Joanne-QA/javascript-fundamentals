@@ -1,40 +1,16 @@
-👋 JavaScript Fundamentals
+# JavaScript, TypeScript and Playwright Learning Journey
 
-Welcome to my JavaScript learning journey!
+This repository documents my progress as a Manual QA Engineer learning
+JavaScript, TypeScript and Playwright test automation.
 
-This repository documents my progress as I learn JavaScript to build a strong foundation for Playwright automation and improve my automation testing skills.
+## Current Focus
 
-## 📚 Topics I'll Cover
+- JavaScript fundamentals
+- TypeScript syntax and type annotations
+- Playwright browser automation
+- Writing clear and maintainable automated tests
 
-- Variables
-- Data Types
-- Operators
-- Strings
-- Arrays
-- Objects
-- Functions
-- Loops
-- Conditional Statements
-- DOM Basics
-- ES6 Features
+## Goal
 
-## 🎯 Goal
-
-Build a solid JavaScript foundation before moving into Playwright automation.
-
-## 🚀 Progress
-
-- ✅ Variables
-- ⬜ Data Types
-- ⬜ Strings
-- ⬜ Arrays
-- ⬜ Objects
-- ⬜ Functions
-- ⬜ Loops
-- ⬜ Conditions
-- ⬜ DOM
-- ⬜ ES6
-
----
-
-✨ Updated as I continue learning.
+To build a strong programming foundation and gradually apply it to practical
+UI test automation using Playwright.
