@@ -4,7 +4,7 @@
 // Author: Joanna Idowu
 // ===========================================
 
-// let exmaple
+// let example
 let score = 10;
 
 console.log("Initial score", score);
